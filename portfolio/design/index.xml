@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drip into the design on Mi chiamo San</title>
-    <link>/portfolio/design/</link>
+    <link>https://coconutcow.github.io/sabharwal.github.io/portfolio/design/</link>
     <description>Recent content in Drip into the design on Mi chiamo San</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/portfolio/design/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://coconutcow.github.io/sabharwal.github.io/portfolio/design/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

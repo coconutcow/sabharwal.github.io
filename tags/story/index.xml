@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>story on Mi chiamo San</title>
-    <link>/tags/story/</link>
+    <link>https://coconutcow.github.io/sabharwal.github.io/tags/story/</link>
     <description>Recent content in story on Mi chiamo San</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 12:32:12 -0500</lastBuildDate><atom:link href="/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 12:32:12 -0500</lastBuildDate><atom:link href="https://coconutcow.github.io/sabharwal.github.io/tags/story/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Italy</title>
-      <link>/posts/italy/</link>
+      <link>https://coconutcow.github.io/sabharwal.github.io/posts/italy/</link>
       <pubDate>Mon, 09 May 2022 12:32:12 -0500</pubDate>
       
-      <guid>/posts/italy/</guid>
+      <guid>https://coconutcow.github.io/sabharwal.github.io/posts/italy/</guid>
       <description>..Incoming</description>
     </item>
     
     <item>
       <title>Yoga</title>
-      <link>/posts/yoga/</link>
+      <link>https://coconutcow.github.io/sabharwal.github.io/posts/yoga/</link>
       <pubDate>Sat, 19 Feb 2022 12:41:46 -0500</pubDate>
       
-      <guid>/posts/yoga/</guid>
+      <guid>https://coconutcow.github.io/sabharwal.github.io/posts/yoga/</guid>
       <description>..Incoming</description>
     </item>
     
     <item>
       <title>Mary</title>
-      <link>/posts/mary/</link>
+      <link>https://coconutcow.github.io/sabharwal.github.io/posts/mary/</link>
       <pubDate>Fri, 09 Feb 2018 12:32:12 -0500</pubDate>
       
-      <guid>/posts/mary/</guid>
+      <guid>https://coconutcow.github.io/sabharwal.github.io/posts/mary/</guid>
       <description>..Incoming</description>
     </item>
     

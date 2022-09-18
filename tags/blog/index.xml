@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Mi chiamo San</title>
-    <link>/tags/blog/</link>
+    <link>https://coconutcow.github.io/sabharwal.github.io/tags/blog/</link>
     <description>Recent content in blog on Mi chiamo San</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Feb 2022 12:41:46 -0500</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Feb 2022 12:41:46 -0500</lastBuildDate><atom:link href="https://coconutcow.github.io/sabharwal.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yoga</title>
-      <link>/posts/yoga/</link>
+      <link>https://coconutcow.github.io/sabharwal.github.io/posts/yoga/</link>
       <pubDate>Sat, 19 Feb 2022 12:41:46 -0500</pubDate>
       
-      <guid>/posts/yoga/</guid>
+      <guid>https://coconutcow.github.io/sabharwal.github.io/posts/yoga/</guid>
       <description>..Incoming</description>
     </item>
     
