@@ -6,16 +6,7 @@
     <description>Recent content in life on Mi chiamo San</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 12:32:12 -0500</lastBuildDate><atom:link href="https://coconutcow.github.io/sabharwal.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Italy</title>
-      <link>https://coconutcow.github.io/sabharwal.github.io/posts/italy/</link>
-      <pubDate>Mon, 09 May 2022 12:32:12 -0500</pubDate>
-      
-      <guid>https://coconutcow.github.io/sabharwal.github.io/posts/italy/</guid>
-      <description>Italy was a pure accident. After having spent a good number of years working in the corporate space with some amazing minds at Deloitte, I had a strong sense of not having the depth and understanding of some emerging technologies such as machine learning, and felt the need to clear this unawareness.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 08 Mar 2022 20:18:53 -0500</lastBuildDate><atom:link href="https://coconutcow.github.io/sabharwal.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>_Advaita_ Vedanta</title>
       <link>https://coconutcow.github.io/sabharwal.github.io/posts/advaita-vedanta/</link>
@@ -44,13 +35,21 @@
     </item>
     
     <item>
+      <title>Italy</title>
+      <link>https://coconutcow.github.io/sabharwal.github.io/posts/italy/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://coconutcow.github.io/sabharwal.github.io/posts/italy/</guid>
+      <description>Italy was a pure accident. After having spent a good number of years working in the corporate space with some amazing minds, I had a strong sense of wanting to learn more and improve in some emerging areas such as machine learning. Before leaving a lucrative career, I wanted to be sure that my next jump would help me complete the objective of having a holistic understanding of technology and the underlying mathematics of these algorithms, frameworks, and methodologies.</description>
+    </item>
+    
+    <item>
       <title>Mary</title>
       <link>https://coconutcow.github.io/sabharwal.github.io/posts/mary/</link>
       <pubDate>Fri, 09 Feb 2018 12:32:12 -0500</pubDate>
       
       <guid>https://coconutcow.github.io/sabharwal.github.io/posts/mary/</guid>
-      <description>How I met Mary ?
-This goes back to the 17th of September 2018 - my second day in Italy. I stepped out of my hostel room, and based on recommendations stepped out to get my tax code (codice fiscale) made. Having known just two Italian words (ciao and buongiorno), I thought that the best way to go and get this made would be to first search on google the office where this could be done.</description>
+      <description>..Incoming</description>
     </item>
     
   </channel>
